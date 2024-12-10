@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "moser": "^0.57.0"
+  },
+  "scripts": {
+    "start": "moser -c config.js"
+  }
+}
